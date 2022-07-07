@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640700355334",
+    "project_id": "skupiac-database",
+    "storage_bucket": "skupiac-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640700355334:android:d99832aa7ff7ae3990c487",
+        "android_client_info": {
+          "package_name": "com.example.skupiac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640700355334-f8vjn7i3t4iqmuc05r0ud1r5ggrl8cn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHxABBdvgkmeuBbweIWfwcUSpyiBApW1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640700355334-f8vjn7i3t4iqmuc05r0ud1r5ggrl8cn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

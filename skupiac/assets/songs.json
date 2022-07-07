@@ -1,0 +1,140 @@
+{
+    "songs":[
+        {
+            "Number":1,
+            "NameOfSong":"Chill Abstract (Intention)",
+            "DurationMin":1,
+            "DurationSec":28,
+            "Artist":"Coma Media",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/chill-abstract-intention-12099.mp3?alt=media&token=7532afef-cfa8-4903-a954-5adc4c389f5c"
+        },
+        {
+            "Number":2,
+            "NameOfSong":"Cinematic Fairy Tale Story (Main)",
+            "DurationMin":2,
+            "DurationSec":7,
+            "Artist":"ZakharValaha",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/cinematic-fairy-tale-story-main-8697.mp3?alt=media&token=79325bfe-3e5a-466c-86ad-8660303bb482"
+        },
+        {
+            "Number":3,
+            "NameOfSong":"Forest Lullaby",
+            "DurationMin":2,
+            "DurationSec":18,
+            "Artist":"Lesfm",
+            "url": "https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/forest-lullaby-110624.mp3?alt=media&token=fcf87c47-2bbc-47f7-a8f8-8b8c94a5a3d4"
+        },
+        {
+            "Number":4,
+            "NameOfSong":"Inspiring Emotional Uplifting Piano",
+            "DurationMin":2,
+            "DurationSec":38,
+            "Artist":"Music For Videos",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/inspiring-emotional-uplifting-piano-112623.mp3?alt=media&token=0c8e963f-762b-4f18-89ae-0b16733495e0"
+        },
+        {
+            "Number":5,
+            "NameOfSong":"Just Relax",
+            "DurationMin":2,
+            "DurationSec":40,
+            "Artist":"Lesfm",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/just-relax-11157.mp3?alt=media&token=f8598178-be27-489b-bd01-ded14d224800"
+        },
+        {
+            "Number":6,
+            "NameOfSong":"Lofi Late Night",
+            "DurationMin":4,
+            "DurationSec":6,
+            "Artist":"BrentinDavis",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/lofi-late-night-113753.mp3?alt=media&token=5741aefc-7fbf-43da-9c15-7ed34d7e0496"
+        },
+        {
+            "Number":7,
+            "NameOfSong":"Lofi Study",
+            "DurationMin":2,
+            "DurationSec":27,
+            "Artist":"FASSounds",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/lofi-study-112191.mp3?alt=media&token=fb03fea5-18c5-472b-ab05-e95c83c8b396"
+        },
+        {
+            "Number":8,
+            "NameOfSong":"Lofi Summer Background",
+            "DurationMin":2,
+            "DurationSec":13,
+            "Artist":"Vladislav Kurnikov",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/lofi-summer-background-112369.mp3?alt=media&token=b175ea36-627d-4274-bf6a-9a66a8ffa7cc"
+        },
+        {
+            "Number":7,
+            "NameOfSong":"madiRFAN - Both of Us",
+            "DurationMin":2,
+            "DurationSec":48,
+            "Artist":"madiRFAN",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/madirfan-both-of-us-14037.mp3?alt=media&token=c96755d8-ca22-4833-8900-623f7e2a727b"
+        },
+        {
+            "Number":8,
+            "NameOfSong":"Morning Garden - Acoustic Chill",
+            "DurationMin":3,
+            "DurationSec":53,
+            "Artist":"Alexy",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/morning-garden-acoustic-chill-15013.mp3?alt=media&token=2283d7b5-bdeb-4709-b364-4231a0f00c4b"
+        },
+        {
+            "Number":9,
+            "NameOfSong":"Order",
+            "DurationMin":1,
+            "DurationSec":44,
+            "Artist":"ComaStudio",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/order-99518.mp3?alt=media&token=696ebb3f-4694-4068-9eb0-390acecfb67e"
+        },
+        {
+            "Number":10,
+            "NameOfSong":"penguinmusic - Modern Chillout",
+            "DurationMin":1,
+            "DurationSec":6,
+            "Artist":"penguinmusic",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/penguinmusic-modern-chillout-12641.mp3?alt=media&token=e575a46c-7dff-47dd-ba3f-54c3c599825c"
+        },
+        {
+            "Number":11,
+            "NameOfSong":"Showreel",
+            "DurationMin":2,
+            "DurationSec":34,
+            "Artist":"QubeSounds",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/showreel-99195.mp3?alt=media&token=182d1d1e-276c-4ac7-966f-c1d885da53bf"
+        },
+        {
+            "Number":12,
+            "NameOfSong":"Spirit Blossom",
+            "DurationMin":1,
+            "DurationSec":48,
+            "Artist":"RomanBelov",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/spirit-blossom-15285.mp3?alt=media&token=b1dcdc25-872b-46f0-bb91-9ea21a357f9b"
+        },
+        {
+            "Number":13,
+            "NameOfSong":"Sweet Chillhop",
+            "DurationMin":2,
+            "DurationSec":23,
+            "Artist":"Music Unlimited",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/sweet-chillhop-113777.mp3?alt=media&token=c9ba6bf4-e8b4-4333-a2c7-33792dbe752e"
+        },
+        {
+            "Number":14,
+            "NameOfSong":"Touch and Sound",
+            "DurationMin":4,
+            "DurationSec":21,
+            "Artist":"Juan Sanchez",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/touch-and-sound-113676.mp3?alt=media&token=fba295c5-7122-407a-ba86-2122bb0af7d7"
+        },
+        {
+            "Number":15,
+            "NameOfSong":"Uplifting Piano Is",
+            "DurationMin":1,
+            "DurationSec":10,
+            "Artist":"Music Unlimited",
+            "url":"https://firebasestorage.googleapis.com/v0/b/skupiac-database.appspot.com/o/uplifting-piano-is-112841.mp3?alt=media&token=06de3080-c914-43c8-a564-342da9daf09f"
+        }
+    ]
+}

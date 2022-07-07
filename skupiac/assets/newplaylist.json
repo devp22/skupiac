@@ -1,0 +1,40 @@
+{
+    "playlist": [
+        {
+            "Name": "Meditation Music 2022",
+            "Publisher": "Meditation Station",
+            "NumberOfSongs": "207",
+            "image": "https://images.unsplash.com/photo-1474418397713-7ede21d49118?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2053&q=80"
+        },
+        {
+            "Name":"Krishna Flute Meditation",
+            "Publisher":"Nivya",
+            "NumberOfSongs":"25",
+            "image":"https://images.unsplash.com/photo-1641730259879-ad98e7db7bcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        },
+        {
+            "Name":"Morning Meditation",
+            "Publisher":"thesnowman7",
+            "NumberOfSongs":"78",
+            "image": "https://images.unsplash.com/photo-1512438248247-f0f2a5a8b7f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80"
+        },
+        {
+            "Name":"Yoga and Meditation",
+            "Publisher":"Anonymous",
+            "NumberOfSongs":"31",
+            "image":"https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8eW9nYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "Name":"Mindfullness and Meditation",
+            "Publisher":"Billy-Joe",
+            "NumberOfSongs":"78",
+            "image":"https://media.istockphoto.com/photos/man-meditating-in-lotus-position-picture-id1311740272?b=1&k=20&m=1311740272&s=170667a&w=0&h=EL4MZ8meCzRn9Rq8P8c2ycxXNtaiJwsBmQPtcnrYyvI="
+        },
+        {
+            "Name":"5 Minutes Meditation",
+            "Publisher": "Betsy",
+            "NumberOfSongs":"42",
+            "image":"https://images.unsplash.com/photo-1607931043122-3f799114b601?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWVkaWF0aW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        }
+    ]
+}
